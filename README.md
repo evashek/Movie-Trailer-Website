@@ -4,9 +4,9 @@ Fresh Tomatoes is a website that displays my favorite movies and their trailers.
 ## Getting Started
 First, make sure that Python is already installed by typing the following in the terminal:
 ```
-$ python --version
+$ python
 ```
-If it isn't, you can download and install [here](https://www.python.org/downloads/).
+If you find that it isn't, you can download and install it [here](https://www.python.org/downloads/).
 
 To clone the repository and move into the folder:
 ```
