@@ -2,7 +2,7 @@
 Fresh Tomatoes is a website that displays my favorite movies and their trailers. Project 1 for Udacity's Full Stack Web Developer nanodegree. Written using Python, HTML, and Javascript.
 
 ## Getting Started
-First, make sure that Python is already installed by typing the following in the terminal:
+The website was written using Python version 2.7 so keep in mind that there may be discrepancies when using Python 3. First, make sure that Python is already installed. You can check this by typing the following in the terminal:
 ```
 $ python
 ```
@@ -15,7 +15,7 @@ $ cd Movie-Trailer-Website
 ```
 
 ## How to run
-Through the **terminal**, type:
+Through the **terminal/cmd**, navigate to the directory where the files are located and type:
 ```
 $ python entertainment_center.py
 ```

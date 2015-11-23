@@ -38,6 +38,7 @@ main_page_head = '''
         .movie-tile {
             margin-bottom: 20px;
             padding-top: 20px;
+            height: 450px;
         }
         .movie-tile:hover {
             background-color: #EEE;
@@ -202,6 +203,7 @@ movie_tile_content = '''
 </div>
 '''
 
+
 # A single actor and role html template
 movie_tile_actors_content = '''
 <div class="actor">
@@ -209,6 +211,7 @@ movie_tile_actors_content = '''
     <div class="actor-role"><p>{name}</p><p>as {character}</p></div>
 </div>
 '''
+
 
 # Assembles all the formatted movie tiles
 def create_movie_tiles_content(movies):
@@ -238,7 +241,9 @@ def create_movie_tiles_content(movies):
         )
     return content
 
-# Assembles a formatted list of actors, their pictures, and role for the respective movie
+
+# Assembles a formatted list of actors, their pictures, and role for
+# the respective movie
 def create_actors_list(actors):
     actors_list = ''
     for actor in actors:
@@ -248,6 +253,7 @@ def create_actors_list(actors):
             character=actor.role
         )
     return actors_list
+
 
 def open_movies_page(movies):
     # Create or overwrite the output file
