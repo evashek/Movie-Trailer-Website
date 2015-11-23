@@ -120,7 +120,7 @@ imitation_game = media.Movie(
     "Imitation Game",
     "2014",
     "8.1/10",
-    "During World War II, mathematician Alan Turing tries to crack the enigm" /
+    "During World War II, mathematician Alan Turing tries to crack the enigm" \
     "a code with help from fellow mathematicians.",
     [benedict_c, keira_k, matthew_g],
     "http://ia.media-imdb.com/images/M/MV5BNDkwNTEyMzkzNl5BMl5BanBnXkFtZTgwNTAwNzk3MjE@._V1_SX640_SY720_.jpg",  # noqa
@@ -129,7 +129,7 @@ snow_white = media.Movie(
     "Snow White Murder Case",
     "2014",
     "7.2/10",
-    "A young woman working at a cosmetic company is interrogated with regar" /
+    "A young woman working at a cosmetic company is interrogated with regar" \
     "ds to the murder of her beautiful co-worker.",
     [mao_i, go_a, nanao],
     "http://asianwiki.com/images/4/46/The_Snow_White_Murder_Case-p1.jpg",
@@ -138,8 +138,8 @@ pacific_rim = media.Movie(
     "Pacific Rim",
     "2013",
     "7/10",
-    "As a war between humankind and monstrous sea creatures wages on, a for" /
-    "mer pilot and a trainee are paired up to drive a seemingly obsolete spe" /
+    "As a war between humankind and monstrous sea creatures wages on, a for" \
+    "mer pilot and a trainee are paired up to drive a seemingly obsolete spe" \
     "cial weapon in a desperate effort to save the world from the apocalypse.",
     [idris_e, charlie_h, rinko_k],
     "https://upload.wikimedia.org/wikipedia/en/f/f3/Pacific_Rim_FilmPoster.jpeg",  # noqa
@@ -148,7 +148,7 @@ wreck_it_ralph = media.Movie(
     "Wreck-It Ralph",
     "2012",
     "7.8/10",
-    "A video game villain wants to be a hero and sets out to fulfill his" /
+    "A video game villain wants to be a hero and sets out to fulfill his" \
     " dream, but his quest brings havoc to the whole arcade where he lives.",
     [john_r, jack_m, jane_l],
     "https://upload.wikimedia.org/wikipedia/en/1/15/Wreckitralphposter.jpeg",
@@ -157,10 +157,10 @@ martian = media.Movie(
     "The Martian",
     "2015",
     "8.3/10",
-    "During a manned mission to Mars, Astronaut Mark Watney is presumed dead" /
-    " after a fierce storm and left behind by his crew. But Watney has survi" /
-    "ved and finds himself stranded and alone on the hostile planet. With on" /
-    "ly meager supplies, he must draw upon his ingenuity, wit and spirit to " /
+    "During a manned mission to Mars, Astronaut Mark Watney is presumed dead" \
+    " after a fierce storm and left behind by his crew. But Watney has survi" \
+    "ved and finds himself stranded and alone on the hostile planet. With on" \
+    "ly meager supplies, he must draw upon his ingenuity, wit and spirit to " \
     "subsist and find a way to signal to Earth that he is alive.",
     [matt_d, jessica_c, kristen_w],
     "https://upload.wikimedia.org/wikipedia/en/c/cd/The_Martian_film_poster.jpg",  # noqa
@@ -169,7 +169,7 @@ spy = media.Movie(
     "Spy",
     "2015",
     "7.2/10",
-    "A desk-bound CIA analyst volunteers to go undercover to infiltrate the " /
+    "A desk-bound CIA analyst volunteers to go undercover to infiltrate the " \
     "world of a deadly arms dealer, and prevent diabolical global disaster.",
     [melissa_m, rose_b, jude_l],
     "http://www.impawards.com/2015/posters/spy_ver7_xlg.jpg",
@@ -178,8 +178,8 @@ akira = media.Movie(
     "Akira",
     "1988",
     "8.1/10",
-    "A secret military project endangers Neo-Tokyo when it turns a biker gan" /
-    "g member into a rampaging psionic psychopath that only two kids and a g" /
+    "A secret military project endangers Neo-Tokyo when it turns a biker gan" \
+    "g member into a rampaging psionic psychopath that only two kids and a g" \
     "roup of psionics can stop.",
     [nozomu_s, mitsuo_i, mami_k],
     "https://sonsofcorax.files.wordpress.com/2013/09/akira-001.jpg",
@@ -188,7 +188,7 @@ pans_labyrinth = media.Movie(
     "Pan's Labyrinth",
     "2006",
     "8.2/10",
-    "In the falangist Spain of 1944, the bookish young stepdaughter of a sad" /
+    "In the falangist Spain of 1944, the bookish young stepdaughter of a sad" \
     "istic army officer escapes into an eerie but captivating fantasy world.",
     [ivana_b, ariadna_g, sergi_l],
     "http://www.impawards.com/2006/posters/pans_labyrinth_ver6.jpg",
@@ -197,8 +197,8 @@ donnie_darko = media.Movie(
     "Donnie Darko",
     "2001",
     "8.1/10",
-    "A troubled teenager is plagued by visions of a large bunny rabbit that" /
-    "manipulates him to commit a series of crimes, after narrowly escaping " /
+    "A troubled teenager is plagued by visions of a large bunny rabbit that" \
+    "manipulates him to commit a series of crimes, after narrowly escaping " \
     "a bizarre accident.",
     [jake_g, jena_m, mary_m],
     "http://wickedknights.org/wp-content/uploads/2015/10/donnie-darko-poster-1.jpg",  # noqa
